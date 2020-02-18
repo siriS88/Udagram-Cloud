@@ -1,6 +1,6 @@
 # Udagram-Cloud
 
-This repository hosts code for an image filtering server that can work locally or deployed to a cloud environment. The code is built off starter code provided by Udacity.
+This project is developed as part of the udacity cloud developer nanodegree and uses code provided as part of this program. This repository hosts code for an image filtering server that can work locally or deployed to a cloud environment. The code is built off starter code provided by Udacity.
 
 # Run the server locally
 
